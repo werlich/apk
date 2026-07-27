@@ -2,7 +2,8 @@
 
 ## Download direto
 
-- **APK:** https://github.com/werlich/apk/raw/main/signau-mobile.apk
-- **Página:** https://werlich.github.io/apk/ (se GitHub Pages estiver ativo)
+**https://github.com/werlich/apk/raw/main/signau-mobile.apk**
 
-Ou release: https://github.com/werlich/apk/releases/latest
+Versão com **prova de vida** (olhar esquerda/direita + piscar) antes da biometria.
+
+API: `https://adm.signau.cc`
