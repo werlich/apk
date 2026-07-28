@@ -1,12 +1,11 @@
 # SIGNAU Mobile APK
 
-## Download direto (v1.0.3 — prova de vida)
+## Download (v1.0.4)
 
 **https://github.com/werlich/apk/raw/main/signau-mobile.apk**
 
-Na câmera deve aparecer **PROVA DE VIDA** com passos:
-1. OLHE PARA A ESQUERDA
-2. OLHE PARA A DIREITA
-3. PISQUE OS OLHOS
+- Logo redonda na tela inicial
+- Prova de vida sem atalho “Já fiz” (só movimentos)
+- Tela permanece ligada com aula em andamento
 
-Se ainda abrir a câmera antiga (só botão de foto), desinstale o app e instale de novo.
+Desinstale a versão antiga antes de instalar.
