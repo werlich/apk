@@ -1,11 +1,10 @@
 # SIGNAU Mobile APK
 
-## Download (v1.0.12)
+APK release do app **SIGNAU Mobile** (biometria / aulas práticas).
 
-**https://github.com/werlich/apk/raw/main/signau-mobile.apk**
+## Download direto
 
-- Timer regressivo usa **Hora Início** e **Hora Finalização** da turma (admin)
-- Suporta aula que cruza meia-noite (ex.: 17:35 → 00:20)
-- Logo redonda, liveness sem bypass, tela ligada na aula
+- **APK:** https://github.com/werlich/apk/raw/main/signau-mobile.apk
+- **Página:** https://werlich.github.io/apk/ (se GitHub Pages estiver ativo)
 
-Desinstale a versão antiga antes de instalar.
+Versão atual: **1.0.13+13**
