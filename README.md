@@ -1,11 +1,11 @@
 # SIGNAU Mobile APK
 
-## Download (v1.0.4)
+## Download (v1.0.5)
 
 **https://github.com/werlich/apk/raw/main/signau-mobile.apk**
 
-- Logo redonda na tela inicial
-- Prova de vida sem atalho “Já fiz” (só movimentos)
-- Tela permanece ligada com aula em andamento
+- Timer regressivo usa **Hora Início** e **Hora Finalização** da turma (admin)
+- Suporta aula que cruza meia-noite (ex.: 17:35 → 00:20)
+- Logo redonda, liveness sem bypass, tela ligada na aula
 
 Desinstale a versão antiga antes de instalar.
