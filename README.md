@@ -1,6 +1,6 @@
 # SIGNAU Mobile APK
 
-## Download (v1.0.7)
+## Download (v1.0.8)
 
 **https://github.com/werlich/apk/raw/main/signau-mobile.apk**
 
