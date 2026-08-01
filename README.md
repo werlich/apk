@@ -7,4 +7,4 @@ APK release do app **SIGNAU Mobile** (biometria / aulas práticas).
 - **APK:** https://github.com/werlich/apk/raw/main/signau-mobile.apk
 - **Página:** https://werlich.github.io/apk/ (se GitHub Pages estiver ativo)
 
-Versão atual: **1.0.31+14**
+Versão atual: **1.0.32+14**
