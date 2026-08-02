@@ -1,17 +1,14 @@
 # SIGNAU Mobile APK
 
-APK release do app **SIGNAU Mobile** (biometria / aulas práticas).
+Versão atual: **1.0.34**
 
 ## Download
 
-- Arquivo no repositório: [`signau-mobile.apk`](./signau-mobile.apk)
-- Ou pela [página de Releases](https://github.com/werlich/apk/releases)
+- [`signau-mobile.apk`](./signau-mobile.apk)
+- [Releases](https://github.com/werlich/apk/releases)
 
-Versão atual: **1.0.33**
+## 1.0.34
 
-## Novidades 1.0.33
-
-- Timer individual do aluno pela carga horária do curso (ARA 4h30, MTA 2h, ARA-MTA 6h45)
-- Exibe o código do curso no bloco do aluno (ARA, MTA, ARA-MTA, MSA, CPA)
-
-API padrão: `https://adm.signau.cc`
+- Curso do aluno no bloco (nome + código ARA/MTA/ARA-MTA/MSA/CPA)
+- Timer regressivo pela carga do curso
+- Turma concluída some dos agendamentos
