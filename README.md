@@ -1,15 +1,12 @@
 # SIGNAU Mobile APK
 
-Versão atual: **1.0.35**
+APK release do app **SIGNAU Mobile** (biometria / aulas práticas).
 
 ## Download
 
-- [`signau-mobile.apk`](./signau-mobile.apk)
-- [Releases](https://github.com/werlich/apk/releases)
+- Release: https://github.com/werlich/apk/releases/download/v1.0.36/signau-mobile.apk
+- Ou [`signau-mobile.apk`](./signau-mobile.apk) no branch main
 
-## 1.0.35
+Versão: **1.0.36** — mensagem clara em sessão expirada (401) e redirecionamento ao login.
 
-- Display só com blocos dos alunos (instrutores ocultos)
-- Sirene intensa na biometria aleatória
-- Confirmação antes da biometria final do instrutor
-- Motonauta (curso curto) finaliza individualmente; demais seguem
+API padrão: `https://adm.signau.cc`
